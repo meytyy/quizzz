@@ -1,5 +1,7 @@
 # Quiz Flashcards App
 
+Сайт: https://musical-souffle-2db6f7.netlify.app/
+
 Полностью рабочий одностраничный веб-приложение Quiz/Flashcards на React + Vite + Tailwind CSS для интерактивного тестирования с вопросами из CSV файла.
 
 ## 🚀 Возможности
